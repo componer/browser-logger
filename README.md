@@ -5,7 +5,7 @@ Help you to log info easily in browser console.
 ## Install
 
 ```
-<script src="browser-logger/dist/js/browser-logger.min.js"></script>
+<script src="browser-logger/dist/browser-logger.min.js"></script>
 ```
 
 Or you can use it in AMD modules system:
