@@ -74,7 +74,6 @@ return /******/ (function(modules) { // webpackBootstrap
 		if (msg) {
 			Logger.set("method", method).put(msg, style).print();
 		}
-	
 		return Logger;
 	}
 	

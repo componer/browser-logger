@@ -10,7 +10,6 @@ function Logger(msg, style = "", method = "log") {
 	if(msg) {
 		Logger.set("method", method).put(msg, style).print()
 	}
-
     return Logger
 }
 
